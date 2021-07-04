@@ -8,4 +8,4 @@ mod tests {
 }
 // モジュールをそれぞれ宣言する。　
 pub mod module_a;
-mod module_b;
+pub mod module_b;
